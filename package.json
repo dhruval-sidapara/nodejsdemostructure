@@ -1,0 +1,13 @@
+{
+  "name": "backend_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/server.js",
+  "types": "dist/server.d.ts",
+  "scripts": {
+    "dev": "nodemon server.ts",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
